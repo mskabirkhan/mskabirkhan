@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working at Health Data Research UK as Data Engineer intern
 - 🌱 I’m currently learning about Data Sciecne, dealing with Health Data
+- 🐍 I'm currently working with Python 
 - 💬 Ask me about anything twitter @shahriarkabir73
 - ⚡ facts about me: I love Travelling, A recreational Photographer
 
