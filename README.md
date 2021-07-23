@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I am Shahriar Kabir Khan
+
+- 🔭 I’m currently working at Health Data Research UK
+- 🌱 I’m currently learning about Data Sciecne, dealing with Health Data
+- 💬 Ask me about anything twitter @shahriarkabir73
+- ⚡ facts about me: I love Travelling, A recreational Photographer
 
 <!--
 **mskabirkhan/mskabirkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
