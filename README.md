@@ -1,16 +1,13 @@
 ### Hi there 👋, I am Shahriar Kabir Khan
 
-- 🔭 I’m currently working at Health Data Research UK as Data Engineer intern
-- 🌱 I’m currently learning about Data Sciecne, dealing with Health Data
+- 🔭 I’m currently working at Health Data Research UK as a Data Curator
+- 🌱 I’m passionate about Data Sciecne, Machine Leaning, experienced dealing with large amout of Data
 - 🐍 I'm currently working with Python 
-- 💬 Ask me about anything on twitter @shahriarkabir73
 - ⚡ facts about me: I love Travelling, A recreational Photographer
 
-[Find me on Stackoverflow](https://stackoverflow.com/users/9453613/shahriar-kabir-khan) 
+[Find me on Stackoverflow](https://stackoverflow.com/users/9453613/shahriar-kabir-khan) | [Visit my Tableau public profile](https://public.tableau.com/app/profile/shahriar.kabir.kha) | [Data science/machine learning Portfolio](http://mskabirkhan.github.io)
 
-[Visit my Tableau public profile](https://public.tableau.com/app/profile/shahriar.kabir.kha)
 
-[Data science/machine learning Portfolio](http://mskabirkhan.github.io)
 <!--
 **mskabirkhan/mskabirkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
