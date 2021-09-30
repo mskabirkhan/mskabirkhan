@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at Health Data Research UK as a Data Curator
 - 🌱 I’m passionate about Data Sciecne, Machine Leaning, experienced dealing with large amout of Data
 - 🐍 I'm currently working with Python, SQL, Tableau
-- ⚡ facts about me: I love Travelling, A recreational Photographer
+- ⚡ Facts about me: I love Travelling, A recreational Photographer
 
 [Find me on Stackoverflow](https://stackoverflow.com/users/9453613/shahriar-kabir-khan) | [Visit my Tableau public profile](https://public.tableau.com/app/profile/shahriar.kabir.kha) | [Data science/machine learning Portfolio](http://mskabirkhan.github.io)
 
