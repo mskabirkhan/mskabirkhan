@@ -1,9 +1,9 @@
 ### Hi there 👋, I am Shahriar Kabir Khan
 
-- 🌱 I’m currently working to master Data Analytics techniques, in progress to complete Google Data Analytics professional certificate course from Coursera
+- 🌱 I’m currently working at NHS as a Digital, Data and Technology Graduate
 - 🔭 I worked at Health Data Research UK as a Data Curator and a Data Engineer (industrial Placement)
 - 🌱 I’m passionate about Data Sciecne, Machine Leaning, experienced dealing with large amout of Data
-- 🐍 I'm currently working with Python, SQL, Tableau, Excel/Google Sheet etc
+- 🐍 I'm currently working with Python, SQL, Tableau, Excel/Google Sheet, Azure etc
 - ⚡ Facts about me: I love Travelling, A recreational Photographer
 
 [Find me on Stackoverflow](https://stackoverflow.com/users/9453613/shahriar-kabir-khan) | [Visit my Tableau public profile](https://public.tableau.com/app/profile/shahriar.kabir.kha) | [Data science/machine learning Portfolio](http://mskabirkhan.github.io)
