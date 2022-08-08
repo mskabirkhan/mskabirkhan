@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Shahriar Kabir Khan
 
-- 🌱 I’m currently working at NHS as a Digital, Data and Technology Graduate
+- 🌱 I’m currently working at NHS as a Digital, Data and Technology Graduate (Data Engineer)
 - 🔭 I worked at Health Data Research UK as a Data Curator and a Data Engineer (industrial Placement)
 - 🌱 I’m passionate about Data Sciecne, Machine Leaning, experienced dealing with large amout of Data
 - 🐍 I'm currently working with Python, SQL, Tableau, Excel/Google Sheet, Azure etc
