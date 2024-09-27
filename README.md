@@ -1,9 +1,10 @@
 ### Hi there 👋, I am Shahriar Kabir Khan
 
-- 🌱 I’m currently working at NHS as a Digital, Data and Technology Graduate (Data Engineer)
-- 🔭 I worked at Health Data Research UK as a Data Curator and a Data Engineer (industrial Placement)
-- 🌱 I’m passionate about Data Sciecne, Machine Leaning, experienced dealing with large amout of Data
-- 🐍 I'm currently working with Python, SQL, Tableau, Excel/Google Sheet, Azure etc
+- 🌱 I am a Real World Data Engineer at MHRA (Medicines and Healthcare Products Regulatory Agency).
+- ⚡ Previously, I worked at NHS as a Digital, Data and Technology Graduate (Data Engineer).
+- 🔭 I also worked at Health Data Research UK as a Data Curator and a Data Engineer (industrial Placement).
+- 🌱 I’m passionate about Data science and machine Learning, and I am experienced in dealing with large amounts of Data.
+- 🐍 I'm currently working with Python, SQL, Tableau, Excel/Google Sheets, Azure, etc.
 - ⚡ Facts about me: I love Travelling, A recreational Photographer
 
 [Find me on Stackoverflow](https://stackoverflow.com/users/9453613/shahriar-kabir-khan) | [Visit my Tableau public profile](https://public.tableau.com/app/profile/shahriar.kabir.kha) | [Data science/machine learning Portfolio](http://mskabirkhan.github.io)
